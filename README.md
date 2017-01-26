@@ -55,10 +55,13 @@ Curated list of blockchain and general cryptocurrency resources
 * [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
 * [Blockchain: practical implications of a revolutionary technology for financial markets and beyond](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/)  - DLA Piper
 * [Blockchain: the solution for transparency in product supply chains](https://www.provenance.org/whitepaper) - Project Provenance Ltd
+* [Blockstack: A Global Naming and Storage System Secured by Blockchains](https://blockstack.org/blockstack.pdf) - Muneeb Ali, Jude Nelson, Ryan Shea and Michael J. Freedman
+* [Bootstrapping Trust in Distributed Systems with Blockchains](https://blockstack.org/blockstack-login.pdf) - Muneeb Ali, Jude Nelson, Ryan Shea and Michael J. Freedman
 * [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
 * [Distributed Ledger Technology: beyond block chain](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf) - UK Government Chief Scientific Adviser
 * [Economics of Bitcoin](http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda
 * [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf) - Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille
+* [Extending Existing Blockchains with Virtualchain](https://blockstack.org/virtualchain.pdf) - Jude Nelson, Muneeb Ali, Ryan Shea and Michael J. Freedman
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute
 * [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) - Chris Ellis
 
@@ -153,6 +156,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
 * [Bitcoin Wednesday](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
+* [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
@@ -209,6 +213,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Block Explorer](https://blockexplorer.com/)
 * [Blockchain Size:](https://blockchain.info/charts/blocks-size)
 * [Blockonomics](https://www.blockonomics.co/)
+* [Blockstack Explorer](https://explorer.blockstack.org/)
 * [Blockr](http://blockr.io/)
 * [Blocktrail](https://www.blocktrail.com/BTC)
 * [Btc Chain](https://btc.com/)
