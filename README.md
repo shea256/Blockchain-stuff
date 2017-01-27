@@ -158,6 +158,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
 * [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
+* [Bruce Fentohttps://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-n First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
@@ -173,6 +174,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
+* [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 
 
 ###Courses
